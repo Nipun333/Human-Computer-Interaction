@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center"> Human-Computer-Interaction </h1>
+<h1 align="center"> Human Computer Interaction </h1>
 
 <p align="center">  
 Human-computer interaction (HCI) is defined as the field of study that focuses on optimizing how users and computers interact by designing interactive computer interfaces that satisfy users' needs. HCI is not only about providing better communication between users and computers but also about factoring in the context and environment in which the system is accessed.
